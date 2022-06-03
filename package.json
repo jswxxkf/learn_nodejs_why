@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_why",
+  "version": "1.0.0",
+  "description": "node.js王红元课程",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaifeng Xue",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.4.0"
+  }
+}
